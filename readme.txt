@@ -5,4 +5,8 @@ Git tracks changes.
 Git trachs changes of files.
 Creating a new branch is quick AND simple.
 add merge
+<<<<<<< Updated upstream
 Git is a free software...
+=======
+hello.py
+>>>>>>> Stashed changes
